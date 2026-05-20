@@ -6,7 +6,7 @@
 
 
 ## Деплой проекта
-[ссылка](https://nigilen.github.io/zakrivayuschiy-teg-f/)
+[ссылка](https://github.com/mustafiea-sys/zakrivayuschiy-teg-ad)
 
 ## Используемые технологии
 - HTML
