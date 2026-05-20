@@ -6,7 +6,7 @@
 
 
 ## Деплой проекта
-[ссылка](https://github.com/mustafiea-sys/zakrivayuschiy-teg-ad)
+https://github.com/mustafiea-sys/zakrivayuschiy-teg-ad
 
 ## Используемые технологии
 - HTML
